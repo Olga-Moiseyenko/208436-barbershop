@@ -1,0 +1,25 @@
+body {
+  font-size: 14px;
+  font-family: PTSans NarrowBold;
+  color: black;
+  font-weight: bold;
+  line-height: 24px;
+  text-transform: uppercase;
+}
+
+h1{
+  font-size: 14px;
+  font-family: PTSans NarrowBold;
+  color: black;
+  font-weight: bold;
+  line-height: 18px;
+}
+
+h2{
+  font-size: 30px;
+  font-family: PTSans NarrowBold;
+  color: black;
+  font-weight: bold;
+  line-height: 42px;
+  text-transform: uppercase;
+}
